@@ -19,7 +19,7 @@ Clone the Repository
 
 bash
 Copy code
-git clone https://github.com/yourusername/business-management-cli.git
+git clone https://github.com/alisha1025/BizManagerCLI.git
 cd business-management-cli
 Install Dependencies
 
